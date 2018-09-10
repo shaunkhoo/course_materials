@@ -1,0 +1,14 @@
+Install R Studio
+Install R
+Install Github
+Open Account in Github
+
+
+GitHub Link:
+https://github.com/QMSS-G5072-2018/course_materials
+
+Github signup link:
+https://goo.gl/forms/0fjuktLjxGruyr0v1
+
+Piazza Link:
+piazza.com/columbia/fall2018/qmssgr50722018moderndatastructures
