@@ -21,11 +21,11 @@ IAB 509E Mon 4.50 - 5.50pm
 
 TA1: Xinyu Ni  
 [xn2115@tc.columbia.edu](xn2115@tc.columbia.edu)  
-IAB 270 Time TBA
+IAB 270J Time Thur 10am - 12pm
 
 TA2: Mikaela Zhang  
 [xz2782@columbia.edu](xz2782@columbia.edu)  
-IAB 270 Time Wed 10am - 12pm
+IAB 270J Time Tue 10am - 12pm
 
 ------------------------------------------------------------------------
 
