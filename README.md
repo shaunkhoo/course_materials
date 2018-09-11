@@ -53,7 +53,7 @@ This is a fairly new course. The materials and topics indicated below are a prov
 
 ### Communications
 
-For all questions to the members of the teaching team, we will be using a discussion forum on Piazza. Please [sign up here.](piazza.com/columbia/fall2018/qmssgr50722018moderndatastructures). The forum will be used to exchange questions about lectures, assignments, software etc. Students are encouraged to help each other!
+For all questions to the members of the teaching team, we will be using a discussion forum on Piazza. Please [sign up here.](https://piazza.com/columbia/fall2018/qmssgr50722018moderndatastructures). The forum will be used to exchange questions about lectures, assignments, software etc. Students are encouraged to help each other!
 
 Students are asked to customize their Piazza notification preferences to receive immediate (ASAP) notifications of messages and announcements through the third-party provider of choice (e.g. email, SMS/text). Students are also asked to log into the course regularly (more than twice a week) and check announcements and the Piazza inbox immediately upon logging in to stay on top of developments in the course as they occur.
 
