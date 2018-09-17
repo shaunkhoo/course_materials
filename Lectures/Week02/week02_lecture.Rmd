@@ -8,14 +8,15 @@ mode: selfcontained
 always_allow_html: yes
 
 output:
+  github_document:
+    toc: true
+    toc_depth: 1
   ioslides_presentation:
     incremental: false
     smaller: false
     css:  "../custom.css"
     keep_md: true
-  github_document:
-    toc: true
-    toc_depth: 1
+
 ---
 
 ```{r packages, message = FALSE, warning = FALSE, echo=FALSE}
@@ -392,7 +393,7 @@ knitr::include_graphics("images/github_step3_fork.png")
 
 ## Forking the course repository
 
-- Go to: https://github.com/QMSS-G5072-2017/QMSS-G5072-Modern-Data-Structures
+- Go to: https://github.com/QMSS-G5072-2018/QMSS-G5072-Modern-Data-Structures
 - Fork the course repository
 - Fetch changes through Github Desktop.
 
